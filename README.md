@@ -27,9 +27,13 @@ Para a instalação escolha uma pasta para clonar o repositório e digite o segu
 git clone https://github.com/andreivan245/Conversor-MoedaV2.git
 ```
 
-Ou baixe diretamente no GitHub.
-
 E por fim execute o arquivo Conversor Moeda.jar
+
+Ou se preferir baixe diretamente [aqui](https://github.com/andreivan245/Conversor-MoedaV2/archive/refs/heads/main.zip) o zip do projeto.
+
+Em seguida extraia
+
+E por fim xecute o arquivo Conversor Moeda.jar
 
 ## Bug
 Até o dia de hoje 05/10/2022 a API apresenta um erro em algumas cotações ao retorna o valor da cotação, esse erro se dá pela posicão incorreta da casa decimal de valores >= 1000. O que acaba por prejudicar algumas conversões.
